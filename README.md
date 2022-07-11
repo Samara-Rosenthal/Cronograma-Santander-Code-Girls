@@ -1,11 +1,11 @@
-Com a organização até a data de conclusão!
+**Com a organização até a data de conclusão!
 
-Como me organizei em relação a conclusão das atividades do bootcamp.
+**Como me organizei em relação a conclusão das atividades do bootcamp.
 
-Alguns passos utilizados para enviar da minha maquina para meu repositorio.
+**Alguns passos utilizados para enviar da minha maquina para meu repositorio.
 
 samar@laptop-br11 MINGW64 ~/OneDrive/Documentos/Dev/Git/DIO/Cronograma/Cronograma-Santander-Code-Girls (main)
-$ git status
+$ **git status
 On branch main
 Your branch is up to date with 'origin/main'.
 
@@ -16,10 +16,10 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 
 samar@laptop-br11 MINGW64 ~/OneDrive/Documentos/Dev/Git/DIO/Cronograma/Cronograma-Santander-Code-Girls (main)
-$ git add .
+$ **git add .
 
 samar@laptop-br11 MINGW64 ~/OneDrive/Documentos/Dev/Git/DIO/Cronograma/Cronograma-Santander-Code-Girls (main)
-$ git status
+$ **git status
 On branch main
 Your branch is up to date with 'origin/main'.
 
@@ -29,13 +29,13 @@ Changes to be committed:
 
 
 samar@laptop-br11 MINGW64 ~/OneDrive/Documentos/Dev/Git/DIO/Cronograma/Cronograma-Santander-Code-Girls (main)
-$ git commit -m "Adicionando a pasta do cronograma"
+$ **git commit -m "Adicionando a pasta do cronograma"
 [main 7efb7ed] Adicionando a pasta do cronograma
  1 file changed, 55 insertions(+)
  create mode 100644 Cronograma Codegirls.md
 
 samar@laptop-br11 MINGW64 ~/OneDrive/Documentos/Dev/Git/DIO/Cronograma/Cronograma-Santander-Code-Girls (main)
-$ git push origin main
+$ **git push origin main
 Enumerating objects: 4, done.
 Counting objects: 100% (4/4), done.
 Delta compression using up to 8 threads
