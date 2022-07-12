@@ -16,11 +16,11 @@
 
 - [x] atividade 1 - :watch: 4 horas
 
-- [ ] atividade 2 - :calendar: 11/07 seg :watch: 2 horas 
+- [x] atividade 2 - :calendar: 11/07 seg :watch: 2 horas 
 
 - [x] atividade 3 - :watch: 2 horas
 
-- [ ] atividade 4 - :calendar: 11/07 seg :watch: 1 hora 
+- [x] atividade 4 - :calendar: 11/07 seg :watch: 1 hora 
 
 - [ ] atividade 5 - :calendar: 12/07 ter :watch: 3 horas
 
