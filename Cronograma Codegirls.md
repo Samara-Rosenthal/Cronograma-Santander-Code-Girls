@@ -22,7 +22,7 @@
 
 - [x] atividade 4 - :calendar: 11/07 seg :watch: 1 hora 
 
-- [ ] atividade 5 - :calendar: 12/07 ter :watch: 3 horas
+- [x] atividade 5 - :calendar: 12/07 ter :watch: 3 horas
 
 - [ ] atividade 6 - :calendar: 13/07 qua :watch: 4 horas
 
