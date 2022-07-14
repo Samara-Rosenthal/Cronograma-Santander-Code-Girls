@@ -24,7 +24,7 @@
 
 - [x] atividade 5 - :calendar: 12/07 ter :watch: 3 horas
 
-- [ ] atividade 6 - :calendar: 13/07 qua :watch: 4 horas
+- [ ] atividade 6 - :calendar: 14/07 qua :watch: 4 horas
 
 - [ ] atividade 7 - :calendar: 14/07 qui :watch: 1 hora projeto
 
