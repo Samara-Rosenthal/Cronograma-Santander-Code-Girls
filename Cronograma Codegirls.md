@@ -30,11 +30,11 @@
 
 :orange_book: Modulo 3
 
-- [ ] atividade 1 - :calendar: 15/07 sex :watch: 4 horas
+- [ ] atividade 1 - :calendar: 17/07 sex :watch: 4 horas
 
 - [ ] atividade 2 - :calendar: 16/07 sab :watch: 2 horas
 
-- [ ] atividade 3 - :calendar:16/07 sab :watch: 1 hora
+- [x] atividade 3 - :calendar:15/07 sab :watch: 1 hora
 
 - [ ] atividade 4 - :calendar: 17/07 dom :watch: 2 horas
 
