@@ -12,7 +12,7 @@
 
   :white_check_mark:
 
-- [ ] :orange_book: Modulo 2
+- [x] :orange_book: Modulo 2
 
 - [x] atividade 1 - :watch: 4 horas
 
@@ -24,9 +24,9 @@
 
 - [x] atividade 5 - :calendar: 12/07 ter :watch: 3 horas
 
-- [ ] atividade 6 - :calendar: 14/07 qua :watch: 4 horas
+- [x] atividade 6 - :calendar: 14/07 qua :watch: 4 horas
 
-- [ ] atividade 7 - :calendar: 14/07 qui :watch: 1 hora projeto
+- [x] atividade 7 - :calendar: 14/07 qui :watch: 1 hora projeto
 
 :orange_book: Modulo 3
 
@@ -38,9 +38,9 @@
 
 - [ ] atividade 4 - :calendar: 17/07 dom :watch: 2 horas
 
-- [ ] atividade 5 - :calendar: 18/07 seg :watch: 1 hora
+- [x] atividade 5 - :calendar: 14/07 qui :watch: 1 hora projeto
 
-- [ ] atividade 6 - :calendar: 18/07 seg :watch: 1 hora
+- [ ] atividade 6 - :calendar: 18/07 seg :watch: 1 hora projeto
 
 :orange_book: Modulo 4
 
