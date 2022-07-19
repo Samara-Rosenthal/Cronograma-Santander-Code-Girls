@@ -44,9 +44,9 @@
 
 :orange_book: Modulo 4
 
-- [ ] atividade 1 - :calendar: 18/07 seg :watch: 3 horas
+- [x] atividade 1 - :calendar: 18/07 seg :watch: 3 horas
 
-- [ ] atividade 2 - :calendar: 18/07 seg :watch: 3 horas
+- [x] atividade 2 - :calendar: 18/07 seg :watch: 3 horas
 
 - [x] atividade 3 - :watch: 3 horas
 
