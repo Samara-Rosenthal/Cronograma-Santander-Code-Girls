@@ -20,7 +20,7 @@
 
 - [x] atividade 3 - :watch: 2 horas
 
-- [x] atividade 4 - :calendar: 11/07 seg :watch: 1 hora 
+- [x] atividade 4 - :calendar: 11/07 seg :watch: 1 hora código
 
 - [x] atividade 5 - :calendar: 12/07 ter :watch: 3 horas
 
@@ -30,7 +30,7 @@
 
 :orange_book: Modulo 3
 
-- [ ] atividade 1 - :calendar: 19/07 ter :watch: 4 horas
+- [x] atividade 1 - :calendar: 19/07 ter :watch: 4 horas
 
 - [x] atividade 2 - :calendar: 17/07 dom :watch: 2 horas
 
@@ -38,7 +38,7 @@
 
 - [x] atividade 4 - :calendar: 16/07 dom :watch: 2 horas
 
-- [x] atividade 5 - :calendar: 14/07 qui :watch: 1 hora projeto
+- [x] atividade 5 - :calendar: 14/07 qui :watch: 1 hora código
 
 - [ ] atividade 6 - :calendar: 20/07 qua :watch: 1 hora projeto
 
