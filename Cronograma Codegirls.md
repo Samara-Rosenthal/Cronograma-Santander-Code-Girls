@@ -40,7 +40,7 @@
 
 - [x] atividade 5 - :calendar: 14/07 qui :watch: 1 hora código
 
-- [ ] atividade 6 - :calendar: 20/07 qua :watch: 1 hora projeto
+- [x] atividade 6 - :calendar: 20/07 qua :watch: 1 hora projeto
 
 :orange_book: Modulo 4
 
